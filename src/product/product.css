@@ -1,0 +1,15 @@
+.product {
+  width: 15rem;
+}
+.product img {
+  max-width: 200px;
+  margin-left: 20px;
+  margin-top: 20px;
+  max-height: 200px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.card-block {
+  padding: 15px;
+}
